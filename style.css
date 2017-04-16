@@ -1,0 +1,46 @@
+section.banner {
+    background-image: url(images/image_2017-03-28_00-56-08.png);
+}
+
+.page-header__logo {
+    font-size: 32px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.logo-year {
+    color: #f30;
+    margin-left: 8px;
+}
+
+.news-header {
+    font-size: 24px;
+}
+
+.news-items {
+    display: flex;
+}
+
+.news-item {
+    width: 360px;
+    display: inline-block;
+    text-align: left;
+    padding: 16px;
+    height: 500px;
+}
+
+.news-item img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.news-item-header {
+    font-size: 20px;
+}
+
+.new-item-description {
+    font-size: 14px;
+    margin-top: 12px;
+}
